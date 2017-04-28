@@ -1,0 +1,11 @@
+/gslap
+/*.gz
+.DS_Store
+*.tml
+/debian/gslap.debhelper.log
+/debian/gslap.substvars
+/debian/gslap/
+/debian/files
+/pkg/gslap*
+.DS_Store
+/tmp/
